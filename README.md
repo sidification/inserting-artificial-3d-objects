@@ -1,4 +1,4 @@
-# inserting-artificial-3d-objects
+# Inserting-artificial-3d-objects
 
 ## Goal
 In this project, I used High dynamic range (HDR) imaging and image based lighting (IBL) to create HDR images from sequences of low dynamic range (LDR) images. This was used to insert artificial 3D objects into photographs using image-based lighting techniques. 
